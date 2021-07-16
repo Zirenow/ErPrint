@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "CLog.h"
+#include "ErPrint.h"
 
 void CL_Log(text msg)
 {
