@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "CLog.h"
+#include "ErPrint.h"
 
 int main(void)
 {
