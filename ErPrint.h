@@ -5,8 +5,8 @@
 #define NONE		"null"
 
 typedef const char* text;
-void CL_Log(text msg);
+void EP_Log(text msg);
 
-void CL_Error(text msg, text details);
+void EP_Error(text msg, text details);
 
-void CL_Warning(text msg);
+void EP_Warning(text msg);
